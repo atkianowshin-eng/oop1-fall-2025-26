@@ -67,7 +67,7 @@ class Stu {
     }
 }
 
-public class AssociationRelationship {
+public class LabTask1 {
     public static void main(String[] args) {
         School s = new School("Ideal School and College", 3);
         s.addStudent(new Student("Nafisa"));
